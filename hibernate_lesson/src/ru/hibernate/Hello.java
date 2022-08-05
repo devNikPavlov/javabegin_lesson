@@ -1,4 +1,4 @@
-package ru.hipernate;
+package ru.hibernate;
 
 public class Hello {
     public static void main(String[] args) {
